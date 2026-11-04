@@ -1,19 +1,19 @@
 {
-  "version": "0.1.45",
-  "notes": "Daymark 0.1.45 beta update.",
-  "pub_date": "2026-11-02T22:29:05.299Z",
+  "version": "0.1.46",
+  "notes": "Daymark 0.1.46 beta update.",
+  "pub_date": "2026-11-04T09:55:14.954Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sparksp0130-svg/daymark-updates/releases/download/beta-0.1.45/Daymark_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHNOZ3JpbUZxckRGUWszK0RkbUdHQ3NpUUI0RTRnZmdmSWFCclg4aDAxOFNmOFdYQlFqeG9QRUkvZ2VlMkxGMFdYSVplSm9mSFl0VUdtYnZQRHR6K3lOMzJLZHNFL2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjU3NzY5CWZpbGU6RGF5bWFyay5hcHAudGFyLmd6CXZlcnNpb246MC4xLjQ1CnJKTklWY1V3dzJEa3l6Q0pDOVZIQ1JvV0dyNG9IKzhsTE1yRW4rN3o3NUxEaDB6ZWpCTmtZRnYvYkUvc0lURnZpNEVCeUZWYnhOTWl2NWJhRGZwcEJBPT0K"
+      "url": "https://github.com/sparksp0130-svg/daymark-updates/releases/download/beta-0.1.46/Daymark_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHNOZ3JpbUZxckRMS2R4NGhrcDZOcDltcmR0Nzk2cHNhYmVXU3NoYXFqdm1FSVlzL2plN0g3dmV3b3Q5eFJuSS9vYUNTSVZTaExxS0RocENaNGtmSWxmNS9vVVE4M2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzg1Mzk4CWZpbGU6RGF5bWFyay5hcHAudGFyLmd6CXZlcnNpb246MC4xLjQ2CjhUbmozdmtHV3JmYUE2UkpQVDM0TW9aL0tnTkZVL3ZkTUxLWEFSK3IwTGNQQ1c4S3Z3WEVoTXVwWDlFVTllQXpDOCtHNTBKcHlacDUvNFMyUGpEUkFnPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/sparksp0130-svg/daymark-updates/releases/download/beta-0.1.45/Daymark_x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHNOZ3JpbUZxckhTZnBaQWxyOVlYVDVuMUNEL1g2Q3dIQlF0WUszcnBnWTBJNzRGbXplTERFcUl1ekV5ejNqL3pLUWNDcXFha1ZBMXRzZ0Y3UU5NaSt1VU9IN2pXRkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjU4NDM3CWZpbGU6RGF5bWFyay5hcHAudGFyLmd6CXZlcnNpb246MC4xLjQ1Cm9yQW4vSmFTdzVuR0wyYnJpL1QxSFE0YlhBVmNnZVc1ZDdYOUhXWHA2Ty83c2g2TDRHaDA1Ymh3eW5GWElTK2xUYmxEdzlLUlc5NU55dWNLeFBhTkFBPT0K"
+      "url": "https://github.com/sparksp0130-svg/daymark-updates/releases/download/beta-0.1.46/Daymark_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHNOZ3JpbUZxckd6Z0Y3KzFNS0M0c1JKTEpNZjRGeG40SkFBR2Z6eDVYdGpabWlISThZR1JNbGxHb2h4MHV5ZWp2b1VWajAyRzBFT045ekRVa3hwTkRxSzBYZzF4VndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzg1NzE0CWZpbGU6RGF5bWFyay5hcHAudGFyLmd6CXZlcnNpb246MC4xLjQ2CitYenNWQ0dYbzRIZjl6c3d3aGo4Mjg3TW1NWGRuYVVrNFlrb1c2Y3J6Mm1ybVhhaVI0d3lzOUFJSXZGSThFL3VzbFA1cyttSUdyaHRiL3RLMnNtL0F3PT0K"
     },
     "windows-x86_64": {
-      "url": "https://github.com/sparksp0130-svg/daymark-updates/releases/download/beta-0.1.45/Daymark_0.1.45_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHNOZ3JpbUZxckpPVy9Cc3dkc3E4dm5xNWZGNk1qM0pnZTNLbkFDcm4raVFzbVVkN2I4SUY0OTZ1dGdaSmtTSC93N2xtclhpMFlIRmFnSXFEb2FRZWpMQmRXdkdoT1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjU4MDExCWZpbGU6RGF5bWFya18wLjEuNDVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40NQptNU9ZV0F5TzRKaFFGY3ozbXE4eUlvNGxqQWxLdFNobjNnL0ZZZDlUTDM0cEJ5eHduam81VFFsbzhDbGJucW53d2drRy9VbCtCczNHbWRqOHJjM0RBdz09Cg=="
+      "url": "https://github.com/sparksp0130-svg/daymark-updates/releases/download/beta-0.1.46/Daymark_0.1.46_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHNOZ3JpbUZxckUrckNPdkdrc1NGRXRWNkg3a2hGVnl5WnJXdVZjMWpEMjg4RWVXOUNldUpqT05RT2ZyRTVDYU4yVTNNbjJJUnFaa2dDaXNUKzJ4Qnlhd3R1N1FlcGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzg1Njg2CWZpbGU6RGF5bWFya18wLjEuNDZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40NgpNcmNCdWErNzVqWVhGcHFUcWdzYXNIamtwM2V6aWdwSzVIcGc4by9RbHE3dHVnMGNQZjExeDl0S0VVUTRpUmRJbldYd3dtbkN5aXc4T2Q0UDNYazVDZz09Cg=="
     }
   }
 }
